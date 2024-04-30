@@ -7,6 +7,7 @@
 
 variable "project" {
   description = "hashicat-us-gcp"
+  default     = "hashicat-us-gcp"
 }
 
 variable "prefix" {
