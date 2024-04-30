@@ -6,7 +6,7 @@
 # prompted to enter it (or define it via config file or command line flags.)
 
 variable "project" {
-  description = "ID of your GCP project. Make sure you set this up before running this terraform code.  REQUIRED."
+  description = "hashicat-us-gcp"
 }
 
 variable "prefix" {
